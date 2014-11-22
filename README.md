@@ -5,6 +5,7 @@ Validating and formatting phone numbers from country name and phone number using
 <br>
 
 <b style="color:red">Installing using composer.</b> <br>
+
 1.check the composer.json is inside your directory or not.<br>
 2.Verify the presence of <br>
 <div style="color:#FFA500">
@@ -18,17 +19,14 @@ Validating and formatting phone numbers from country name and phone number using
 <div>
 <br>
 3.Download composer from  <b><a style="color:#FFA500" href="https://getcomposer.org/">composer </a></b><br>
-
 4.install composer.phar into the required directory.<br><br>
+
 <h><b>Installation Command</b></h>
 <pre>php composer.phar install</pre>
 <b>REF:</b> <a style="color:#FFA500" href="https://getcomposer.org/doc/00-intro.md#using-composer">Here </a>
-
-5.After installation you will get all required files in vendor/ directory..
-
-
-
+5.After installation you will get all required files in vendor/ directory.
 <br><br>
+
 <b style="color:#470e07"> After all is done </b><br>
 
 1.Import LibValidation class into app controller.<br>
@@ -53,5 +51,5 @@ array(
 <br>
 <b>Note:</b>if phone number is valid , message contain formatted phone number..
 
-
+<b>Reference:</b> <a href="https://github.com/giggsey/libphonenumber-for-php">giggsey libphonenumber-php</a>
 ///////////////*********  Happy Coding   ***********//////////////////
