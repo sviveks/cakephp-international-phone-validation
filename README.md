@@ -21,9 +21,8 @@ Validating and formatting phone numbers from country name and phone number using
 
 4.install composer.phar into the required directory.<br><br>
 <b>.....Installation Command...</b>
-<pre>php composer.phar install</pre><br>
+<pre>php composer.phar install</pre>
 <b>REF:</b> <a style="color:#FFA500" href="https://getcomposer.org/doc/00-intro.md#using-composer">Here </a>
-<br>
 
 5.After installation you will get all required files in vendor/ directory..
 
