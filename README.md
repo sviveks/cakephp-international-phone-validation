@@ -1,10 +1,10 @@
-libphonefromcountryname
+<h>libphonenumber validation from country name</h>
 =======================
 
 Validating and formatting phone numbers from country name and phone number using libphonenumber api . It is useful for request type validation for mobile aps and cakephp as backend framework
 <br>
 
-<b style="color:brown">Installing using composer.</b> <br>
+<b style="color:red">Installing using composer.</b> <br>
 1.check the composer.json is inside your directory or not.<br>
 2.Verify the presence of <br>
 <div style="color:#FFA500">
@@ -20,7 +20,7 @@ Validating and formatting phone numbers from country name and phone number using
 3.Download composer from  <b><a style="color:#FFA500" href="https://getcomposer.org/">composer </a></b><br>
 
 4.install composer.phar into the required directory.<br><br>
-<b>.....Installation Command...</b>
+<h><b>Installation Command</b></h>
 <pre>php composer.phar install</pre>
 <b>REF:</b> <a style="color:#FFA500" href="https://getcomposer.org/doc/00-intro.md#using-composer">Here </a>
 
@@ -29,7 +29,7 @@ Validating and formatting phone numbers from country name and phone number using
 
 
 <br><br>
-<b style="color:#470e07">////////   After all is done .. //////////////</b><br>
+<b style="color:#470e07"> After all is done </b><br>
 
 1.Import LibValidation class into app controller.<br>
 
