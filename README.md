@@ -7,18 +7,20 @@ Validating and formatting phone numbers from country name and phone number using
 
 1.check the composer.json is inside your directory or not.
 2.Verify the presence of 
-{
+
+
+<pre style="color:orange">{
     "require": {
         "giggsey/libphonenumber-for-php": "~7.0"
 
     }
 }
-
+</pre>
 3.Download composer from https://getcomposer.org/
 
 4.install composer.phar into the required directory.
 .....installation command...
-php composer.phar install
+php composer.phar install<br>
 REF:---> https://getcomposer.org/doc/00-intro.md#using-composer
 
 5.After installation you will get all required files in vendor/ directory..
