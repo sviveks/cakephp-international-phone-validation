@@ -51,5 +51,5 @@ array(
 <br>
 <b>Note:</b>if phone number is valid , message contain formatted phone number..
 
-<b>Reference:</b> <a href="https://github.com/giggsey/libphonenumber-for-php">giggsey libphonenumber-php</a>
-///////////////*********  Happy Coding   ***********//////////////////
+<b>Reference:</b> <a href="https://github.com/giggsey/libphonenumber-for-php">giggsey libphonenumber-php</a><br>
+/*******************  Happy Coding   *******************/
