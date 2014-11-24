@@ -1,4 +1,5 @@
-<h>libphonenumber validation from country name</h>
+<h>cakephp-international-phone-validation using country name and libphonenumber
+</h>
 =======================
 
 Validating and formatting phone numbers from country name and phone number using libphonenumber api . It is useful for request type validation for mobile aps and cakephp as backend framework
