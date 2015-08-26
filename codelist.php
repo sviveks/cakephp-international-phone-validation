@@ -233,7 +233,7 @@ return array (
   'SZ' => 'Swaziland',
   'SE' => 'Sweden',
   'CH' => 'Switzerland',
-  'SY' => 'Syria',
+  //'SY' => 'Syria',
   'ST' => 'São Tomé and Príncipe',
   'TW' => 'Taiwan',
   'TJ' => 'Tajikistan',
