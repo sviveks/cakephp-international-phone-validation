@@ -32,6 +32,7 @@ class libphone{
             }else{
                 $response['valid']=0;      
                 $response['message']='Please choose valid mobile number';
+                $test=""; 
             }  
             return $response;
             //print_r($swissNumberProto);
